@@ -277,8 +277,9 @@ body.bp header, body.bp footer {
 body.bp header {
   font-size: 80px;
   letter-spacing: -2;
+  word-spacing: -1em;
 }
-/* line 43, ../sass/screen.scss */
+/* line 44, ../sass/screen.scss */
 body.bp #sidebar {
   display: inline;
   float: left;
@@ -289,7 +290,7 @@ body.bp #sidebar {
 * html body.bp #sidebar {
   overflow-x: hidden;
 }
-/* line 48, ../sass/screen.scss */
+/* line 49, ../sass/screen.scss */
 body.bp #ttitle {
   display: inline;
   float: left;
@@ -301,7 +302,7 @@ body.bp #ttitle {
 * html body.bp #ttitle {
   overflow-x: hidden;
 }
-/* line 55, ../sass/screen.scss */
+/* line 56, ../sass/screen.scss */
 body.bp #content {
   display: inline;
   float: left;
