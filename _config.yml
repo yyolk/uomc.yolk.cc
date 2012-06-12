@@ -1,5 +1,4 @@
 permalink: pretty
 
-
-owner: YOLK
-owner_url: http://yolk.cc
+server: true
+server_port: 8080
